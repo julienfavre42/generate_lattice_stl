@@ -10,5 +10,9 @@ The following packages are required:
 - XcrysDen to open the xsf crystallography files
 - Povray and Imagemagick to generate 3D images, and to make a gif from it
 
+The quality of stl files may be improved with PyMesh after generation : https://pymesh.readthedocs.io
+
+Examples of stl outputs are provided on this page : https://www.thingiverse.com/thing:3933355
+
 You can run different commands listed at the end of the file cluster_graphics.py to get different outputs : stl, png, gif, or xsf file...
 Enjoy!
